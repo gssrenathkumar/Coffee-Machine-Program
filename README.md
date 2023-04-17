@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>Coffee Machine Program</title>
 <head>
 	
 </head>
