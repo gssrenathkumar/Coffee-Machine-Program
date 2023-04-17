@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
+<title>Coffee Machine Program</title>
 <head>
-	<title>Coffee Machine Program</title>
+	
 </head>
 <body>
 	<h1>Coffee Machine Program</h1>
